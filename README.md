@@ -1,6 +1,9 @@
 # weather_app
 
 A new Flutter project.
+ ![Image Alt](https://github.com/mayurranshinge08/weather_app/blob/599644b7b5c4478e06638e504a0614ec00afae63/search_city.png)
+ 
+  ![Image Alt](https://github.com/mayurranshinge08/weather_app/blob/599644b7b5c4478e06638e504a0614ec00afae63/network_screen.png)
 
 ## Getting Started
 
